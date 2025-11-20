@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/restrict-template-expressions */
 import { OrderStatus } from '@prisma/client';
 import {
   IsBoolean,
